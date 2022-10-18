@@ -1,0 +1,44 @@
+div {
+	text-align:center;
+	}
+    div#bandeau {
+       
+        height:50px;
+        background-color:#00CCFF;
+        }
+    div#contenu {
+        width: 100%;
+        height:400px;
+        background-color:#FFCC00;
+        float:left;
+        }
+    div#piedpage {
+        width:100%;
+        height:50px;
+        background-color:#1fe984;
+        float: left;
+        padding-bottom: 0px;
+        }
+    div#menu {
+        float:left;
+        height:400px;
+        background-color:#FF6699;
+        }
+    div#menuhaut {
+        height:200px;
+        background-color:#66CC33;
+        }
+    div#menubas {
+        height:200px;
+        background-color:#CC99CC;
+    }
+    #blocg{
+    float:right;
+    width:150px;
+    height:150px;  
+    background-color:#FF3300;
+    }       
+
+
+    
+         
